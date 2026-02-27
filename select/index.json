@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KILLERMOON",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-27T16:22:36.398003Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KILLERMOON",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_KILLERMOON_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
